@@ -1,0 +1,19 @@
+{
+  "name": "@kassiopea-coder/ajs-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kassiopea-coder/ajs-nodejs.git"
+  },
+  "author": "Nadezhda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kassiopea-coder/ajs-nodejs/issues"
+  },
+  "homepage": "https://github.com/kassiopea-coder/ajs-nodejs#readme"
+}
